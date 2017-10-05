@@ -8,7 +8,7 @@
 </head>
 <body>
     <form action="" method="get">
-Life is life
+Life is good
   <?php if (isset($_GET['submitted'])) { ?>
     <h1>The server had accepted:</h1>
     <p>radio: <?php echo htmlspecialchars($_GET['radio']); ?></p>
