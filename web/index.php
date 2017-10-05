@@ -25,6 +25,25 @@ Life is life
       <label for="my-radio-no">radio No: </label>
       <input id="my-radio-no" name="radio" type="radio" required value="No"></p>
     <br>
+   
+  
+    <input type="hidden" name="submitted" value="yes">
+    <input type="text" name="text" required maxlength="6" placeholder="введите 6 букв"><br>
+    <input type="color" name="color"></p>
+      <p><input type='date' name="date"></p>
+      <p><input type='month' name="month"></p>
+      <p><input type="email" name="email"></p>
+      <p><input type="number" name="number"></p>
+      <p><input type="range" name="range"></p>
+      <p><input type="checkbox" name="checkbox"></p>
+      <p><select id="my-select" name="myselect" size="1" required>
+   <option value="">---------</option>
+   <option value="1">любит</option>
+   <option value="2">не любит</option>
+      </select></p>
+      <textarea id="my-textarea" style="resize:none" maxlength="10" placeholder="введите аккуратно"></textarea>
+      
+    <br>
     <input type="submit" value="Submit">
     <input type="reset" value="Clear">
   </form>
