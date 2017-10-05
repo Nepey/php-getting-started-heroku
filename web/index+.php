@@ -7,7 +7,7 @@
   <title>Form test</title>
 </head>
 <body>
-    <<form action="" method="get">
+    <form action="" method="get">
 Life is life
   <?php if (isset($_GET['submitted'])) { ?>
     <h1>The server had accepted:</h1>
@@ -23,17 +23,9 @@ Life is life
     
     <input type="submit" value="Submit">
     <input type="reset" value="Clear">
-    <h1>Play with the HTML form</h1>
-     <input type="hidden" name="submitted" value="yes">
-    <p>
-      <label for="my-radio-yes">radio Yes: </label>
-      <input id="my-radio-yes" name="radio" type="radio" required value="Yes">
-      <label for="my-radio-no">radio No: </label>
-      <input id="my-radio-no" name="radio" type="radio" required value="No">
-      </p> 
-      <p>
-      <input type="text" name="text" required maxlength="6" placeholder="введите 6 букв"><br>
-      <input type="color" name="color"></p>
+    <input type="hidden" name="submitted" value="yes">
+    <input type="text" name="text" required maxlength="6" placeholder="введите 6 букв"><br>
+    <input type="color" name="color"></p>
       <p><input type='date' name="date"></p>
       <p><input type='month' name="month"></p>
       <p><input type="email" name="email"></p>
