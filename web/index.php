@@ -30,7 +30,7 @@
                 <span class="icon-bar"></span>
                 <span class="icon-bar"></span>
               </button>
-              <a class="navbar-brand" href="D:\LearnVSCode\GOOD ROAD\САРУСЕЛЬ\Introduction.html"><img src="D:\LearnVSCode\GOOD ROAD\GooD RoaD1\method-draw-image (2).svg" class="img-responsive" alt="Blockchain"></a>
+              <a class="navbar-brand" href="Introduction.html"><img src="D:\LearnVSCode\GOOD ROAD\GooD RoaD1\method-draw-image (2).svg" class="img-responsive" alt="Blockchain"></a>
             </div>
             <div class="collapse navbar-collapse" id="responsive menu">
               <ul class="nav navbar-nav">
