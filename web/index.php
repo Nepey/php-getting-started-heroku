@@ -240,7 +240,7 @@
     
       <!-- FOOTER -->
       <footer>
-        <p class="pull-right"><a href="GOOD ROAD+.html">Наверх</a></p>
+        <p class="pull-right"><a href="https://my-php-1.herokuapp.com/">Наверх</a></p>
         <p>Контакты: г.Минск,пр.Дзержинского, 3, <br> тел.+375(017)2946176, факс +375(017)2945581</p>
       </footer>
    </div>  <!-- /.form-->
