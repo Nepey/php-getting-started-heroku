@@ -1,0 +1,15 @@
+<svg width="300" height="150" xmlns="http://www.w3.org/2000/svg">
+ <!-- Created with Method Draw - http://github.com/duopixel/Method-Draw/ -->
+
+ <g>
+  <title>background</title>
+  <rect x="-1" y="-1" width="302" height="152" id="canvas_background" fill="none"/>
+ </g>
+ <g>
+  <title>Layer 1</title>
+  <text fill="#ff0000" stroke="#ff0000" stroke-width="0" x="12.000235" y="44.249752" id="svg_1" font-size="30" font-family="Helvetica, Arial, sans-serif" text-anchor="start" xml:space="preserve" font-weight="bold">ДОБРАЯ</text>
+  <text fill="#ff0000" stroke="#ff0000" stroke-width="0" x="100.417895" y="78.667193" id="svg_2" font-size="30" font-family="Helvetica, Arial, sans-serif" text-anchor="start" xml:space="preserve" font-weight="bold" transform="rotate(-23.499038696289062 162.53906250000009,68.16406250000003) ">ДОРОГА</text>
+  <path stroke="#ff0000" fill="#00ff00" stroke-width="0" stroke-opacity="null" fill-opacity="null" d="m129.577721,148.86911c-9.117,-49.283097 -20.95088,-142.768197 -20.85579,-151.631065c0.09508,-8.862868 -0.01519,-16.874818 17.69596,-41.531572l4.85839,-5.121773c-6.1484,37.336233 -4.20374,121.059852 -3.81377,157.545067l3.85356,52.30682l-1.73835,-11.567477z" id="svg_11" transform="rotate(-99.40413665771484 120.01871490478517,55.51064300537111) "/>
+  <path stroke="#ff0000" fill="#00ff00" stroke-width="0" stroke-opacity="null" fill-opacity="null" d="m146.595377,132.162254c-5.66478,-37.448718 -13.01768,-108.485202 -12.9586,-115.219819c0.05909,-6.734629 -0.00943,-12.822667 10.99527,-31.558588l3.01872,-3.891873c-2.56056,28.921875 -1.99726,49.975723 -2.13379,84.210219l2.15851,75.24983l-1.08011,-8.789769z" id="svg_12" transform="rotate(-107.47016143798828 140.6559600830078,61.22199249267576) "/>
+ </g>
+</svg>
