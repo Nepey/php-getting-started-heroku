@@ -11,8 +11,8 @@
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
     <title>ДОБРАЯ ДОРОГА</title>
     <!-- Bootstrap core CSS -->
-    <link href="./Carousel Template for Bootstrap_files/bootstrap.css" rel="stylesheet">
-    <link href="./Carousel Template for Bootstrap_files/good_road.css" rel="stylesheet">
+    <link href="bootstrap.css" rel="stylesheet">
+    <link href="good_road.css" rel="stylesheet">
           
      <style id="holderjs-style" type="text/css"></style>
   </head>
@@ -30,27 +30,27 @@
                 <span class="icon-bar"></span>
                 <span class="icon-bar"></span>
               </button>
-              <a class="navbar-brand" href="Introduction.html"><img src="D:\LearnVSCode\GOOD ROAD\GooD RoaD1\method-draw-image (2).svg" class="img-responsive" alt="Blockchain"></a>
+              <a class="navbar-brand" href="Introduction.html"><img src="method-draw-image (2).svg" class="img-responsive" alt="Blockchain"></a>
             </div>
             <div class="collapse navbar-collapse" id="responsive menu">
               <ul class="nav navbar-nav">
                      <li class="dropdown">
                         <a href="#" class="dropdown-toggle" data-toggle="dropdown">Концепция ДОБРАЯ ДОРОГА<b class="caret"></b></a>
                         <ul class="dropdown-menu">
-                           <li><a href="D:\LearnVSCode\GOOD ROAD\САРУСЕЛЬ\general measures.html"> Общие меры</a></li>
+                           <li><a href="general measures.html"> Общие меры</a></li>
                             <li class="divider"></li>
-                            <li><a href="D:\LearnVSCode\GOOD ROAD\САРУСЕЛЬ\direct measures.html">Прямые меры</a></li>
+                            <li><a href="direct measures.html">Прямые меры</a></li>
                              <li class="divider"></li>
-                             <li><a href="D:\LearnVSCode\GOOD ROAD\САРУСЕЛЬ\structure_program.html">Структурные программы</a></li> 
+                             <li><a href="structure_program.html">Структурные программы</a></li> 
                         </ul>
                      <li class="dropdown">
                         <a href="#" class="dropdown-toggle" data-toggle="dropdown">Комиссия по обеспечению безопасности дорожного движения при Мингорисполкоме<b class="caret"></b></a>
                         <ul class="dropdown-menu">
-                           <li><a href="D:\LearnVSCode\GOOD ROAD\САРУСЕЛЬ\About_comission.html">Положение о комиссии</a></li>
+                           <li><a href=About_comission.html">Положение о комиссии</a></li>
                             <li class="divider"></li>
-                           <li><a href="D:\LearnVSCode\GOOD ROAD\САРУСЕЛЬ\Structure_comission.html">Схема работы комисии</a></li>
+                           <li><a href="Structure_comission.html">Схема работы комисии</a></li>
                             <li class="divider"></li>
-                           <li><a href="D:\LearnVSCode\GOOD ROAD\САРУСЕЛЬ\Carousel Template for Bootstrap_files\протоколы комиссий.rar">Решения комиссии</a></li>
+                           <li><a href="протоколы комиссий.rar">Решения комиссии</a></li>
                         </ul>
                      </li>
                  </ul>
@@ -67,32 +67,32 @@
       </ol>
       <div class="carousel-inner">
         <div class="item active">
-          <img src="D:\LearnVSCode\GOOD ROAD\САРУСЕЛЬ\Carousel Template for Bootstrap_files\razvyazka_dvizhenie_nochnoj_gorod_vid_sverkhu_116498_1920x1080.jpg" alt="">
+          <img src="razvyazka_dvizhenie_nochnoj_gorod_vid_sverkhu_116498_1920x1080.jpg" alt="">
           <div class="container">
             <div class="carousel-caption">
               <h1>Engineering (Инфраструктура)</h1>
               <p>Дизайнер дороги закладывает в нее все последствия</p>
-              <p><a class="btn btn-lg btn-primary" href="D:\LearnVSCode\GOOD ROAD\САРУСЕЛЬ\Engineering.html" role="button">дизайн транспортной инфраструктуры</a></p>
+              <p><a class="btn btn-lg btn-primary" href="Engineering.html" role="button">дизайн транспортной инфраструктуры</a></p>
             </div>
           </div>
         </div>
         <div class="item">
-          <img src="D:\LearnVSCode\GOOD ROAD\САРУСЕЛЬ\Carousel Template for Bootstrap_files\oboitut.com_1420448366.jpg" alt = "">
+          <img src="oboitut.com_1420448366.jpg" alt = "">
           <div class="container">
             <div class="carousel-caption">
               <h1>Education (Образование)</h1>
               <p>Общество должно быть информировано и обучено безопасному поведению на дороге </p>
-              <p><a class="btn btn-lg btn-primary" href="D:\LearnVSCode\GOOD ROAD\САРУСЕЛЬ\Education.html" role="button">образование</a></p>
+              <p><a class="btn btn-lg btn-primary" href="Education.html" role="button">образование</a></p>
             </div>
           </div>
         </div>
         <div class="item">
-          <img src="D:\LearnVSCode\GOOD ROAD\САРУСЕЛЬ\Carousel Template for Bootstrap_files\Safetyininformationandtrafficsystems_teaser.jpg" alt=""> 
+          <img src="Safetyininformationandtrafficsystems_teaser.jpg" alt=""> 
           <div class="container">
             <div class="carousel-caption">
               <h1>Enforcement (Контроль)</h1>
               <p>Контроль должен быть разумным и эффективным</p>
-              <p><a class="btn btn-lg btn-primary" href="D:\LearnVSCode\GOOD ROAD\САРУСЕЛЬ\Control.html" role="button">Контроль</a></p>
+              <p><a class="btn btn-lg btn-primary" href="Control.html" role="button">Контроль</a></p>
             </div>
           </div>
         </div>
@@ -117,14 +117,14 @@
       <!-- Three columns of text below the carousel -->
       <div class="row">
         <div class="col-lg-6 col-md-6 col-sm-6">
-          <img class="img-circle" src="D:\LearnVSCode\GOOD ROAD\САРУСЕЛЬ\Carousel Template for Bootstrap_files\doroga_zakat_razmetki_trava_102104_1920x1080.jpg" alt="140x140" src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNDAiIGhlaWdodD0iMTQwIj48cmVjdCB3aWR0aD0iMTQwIiBoZWlnaHQ9IjE0MCIgZmlsbD0iI2VlZSIvPjx0ZXh0IHRleHQtYW5jaG9yPSJtaWRkbGUiIHg9IjcwIiB5PSI3MCIgc3R5bGU9ImZpbGw6I2FhYTtmb250LXdlaWdodDpib2xkO2ZvbnQtc2l6ZToxMnB4O2ZvbnQtZmFtaWx5OkFyaWFsLEhlbHZldGljYSxzYW5zLXNlcmlmO2RvbWluYW50LWJhc2VsaW5lOmNlbnRyYWwiPjE0MHgxNDA8L3RleHQ+PC9zdmc+" style="width: 300px; height: 200px;">
+          <img class="img-circle" src="doroga_zakat_razmetki_trava_102104_1920x1080.jpg" alt="140x140" src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNDAiIGhlaWdodD0iMTQwIj48cmVjdCB3aWR0aD0iMTQwIiBoZWlnaHQ9IjE0MCIgZmlsbD0iI2VlZSIvPjx0ZXh0IHRleHQtYW5jaG9yPSJtaWRkbGUiIHg9IjcwIiB5PSI3MCIgc3R5bGU9ImZpbGw6I2FhYTtmb250LXdlaWdodDpib2xkO2ZvbnQtc2l6ZToxMnB4O2ZvbnQtZmFtaWx5OkFyaWFsLEhlbHZldGljYSxzYW5zLXNlcmlmO2RvbWluYW50LWJhc2VsaW5lOmNlbnRyYWwiPjE0MHgxNDA8L3RleHQ+PC9zdmc+" style="width: 300px; height: 200px;">
           <h2>"Добрая дорога" 2011-2015г.г.</h2>
-          <p><a class="btn btn-default" href="D:\LearnVSCode\GOOD ROAD\САРУСЕЛЬ\Carousel Template for Bootstrap_files\результаты Добрая дорога 2011-2015.pdf" role="button">Просмотреть  результаты »</a></p>
+          <p><a class="btn btn-default" href="результаты Добрая дорога 2011-2015.pdf" role="button">Просмотреть  результаты »</a></p>
         </div><!-- /col-lg-6 col-md-6 col-sm-6 -->
         <div class="col-lg-6 col-md-6 col-sm-6">
-          <img class="img-circle" src="D:\LearnVSCode\GOOD ROAD\САРУСЕЛЬ\Carousel Template for Bootstrap_files\doroga_gory_razmetki_93576_1920x1080.jpg" alt="140x140" src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNDAiIGhlaWdodD0iMTQwIj48cmVjdCB3aWR0aD0iMTQwIiBoZWlnaHQ9IjE0MCIgZmlsbD0iI2VlZSIvPjx0ZXh0IHRleHQtYW5jaG9yPSJtaWRkbGUiIHg9IjcwIiB5PSI3MCIgc3R5bGU9ImZpbGw6I2FhYTtmb250LXdlaWdodDpib2xkO2ZvbnQtc2l6ZToxMnB4O2ZvbnQtZmFtaWx5OkFyaWFsLEhlbHZldGljYSxzYW5zLXNlcmlmO2RvbWluYW50LWJhc2VsaW5lOmNlbnRyYWwiPjE0MHgxNDA8L3RleHQ+PC9zdmc+" style="width: 300px; height: 200px;">
+          <img class="img-circle" src="doroga_gory_razmetki_93576_1920x1080.jpg" alt="140x140" src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNDAiIGhlaWdodD0iMTQwIj48cmVjdCB3aWR0aD0iMTQwIiBoZWlnaHQ9IjE0MCIgZmlsbD0iI2VlZSIvPjx0ZXh0IHRleHQtYW5jaG9yPSJtaWRkbGUiIHg9IjcwIiB5PSI3MCIgc3R5bGU9ImZpbGw6I2FhYTtmb250LXdlaWdodDpib2xkO2ZvbnQtc2l6ZToxMnB4O2ZvbnQtZmFtaWx5OkFyaWFsLEhlbHZldGljYSxzYW5zLXNlcmlmO2RvbWluYW50LWJhc2VsaW5lOmNlbnRyYWwiPjE0MHgxNDA8L3RleHQ+PC9zdmc+" style="width: 300px; height: 200px;">
           <h2>"Добрая дорога" 2016-2020г.г.</h2>
-          <p><a class="btn btn-default" href="D:\LearnVSCode\GOOD ROAD\САРУСЕЛЬ\Carousel Template for Bootstrap_files\Добрая дорога 2016-2020.gif" role="button">Просмотреть результаты »</a></p>
+          <p><a class="btn btn-default" href="Добрая дорога 2016-2020.gif" role="button">Просмотреть результаты »</a></p>
         </div><!-- /.col-lg-6 col-md-6 col-sm-6 -->
       </div><!-- /.row -->
 
@@ -136,10 +136,10 @@
       <div class="row featurette">
         <div class="col-md-7">
           <h3 class="featurette-heading">Незащищенные участники дорожного движения <br><span class="text-muted">дети, пожилые люди, велосипедисты, инвалиды</span></h3>
-          <p class="lead"><a href="D:\LearnVSCode\GOOD ROAD\САРУСЕЛЬ\Carousel Template for Bootstrap_files\Незащищенные участники дорожного движения.pdf">Дорожная инфраструктура в городской среде должна в первую очередь учитывать интересы незащищенных участников дорожного движения.</a></p>
+          <p class="lead"><a href="Незащищенные участники дорожного движения.pdf">Дорожная инфраструктура в городской среде должна в первую очередь учитывать интересы незащищенных участников дорожного движения.</a></p>
         </div>
         <div class="col-md-5">
-          <img class="featurette-image img-responsive" src="D:\LearnVSCode\GOOD ROAD\САРУСЕЛЬ\Carousel Template for Bootstrap_files\1.freedomtomove_teaser.jpg" alt="700x700" src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI1MDAiIGhlaWdodD0iNTAwIj48cmVjdCB3aWR0aD0iNTAwIiBoZWlnaHQ9IjUwMCIgZmlsbD0iI2VlZSIvPjx0ZXh0IHRleHQtYW5jaG9yPSJtaWRkbGUiIHg9IjI1MCIgeT0iMjUwIiBzdHlsZT0iZmlsbDojYWFhO2ZvbnQtd2VpZ2h0OmJvbGQ7Zm9udC1zaXplOjMxcHg7Zm9udC1mYW1pbHk6QXJpYWwsSGVsdmV0aWNhLHNhbnMtc2VyaWY7ZG9taW5hbnQtYmFzZWxpbmU6Y2VudHJhbCI+NTAweDUwMDwvdGV4dD48L3N2Zz4=">
+          <img class="featurette-image img-responsive" src="1.freedomtomove_teaser.jpg" alt="700x700" src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI1MDAiIGhlaWdodD0iNTAwIj48cmVjdCB3aWR0aD0iNTAwIiBoZWlnaHQ9IjUwMCIgZmlsbD0iI2VlZSIvPjx0ZXh0IHRleHQtYW5jaG9yPSJtaWRkbGUiIHg9IjI1MCIgeT0iMjUwIiBzdHlsZT0iZmlsbDojYWFhO2ZvbnQtd2VpZ2h0OmJvbGQ7Zm9udC1zaXplOjMxcHg7Zm9udC1mYW1pbHk6QXJpYWwsSGVsdmV0aWNhLHNhbnMtc2VyaWY7ZG9taW5hbnQtYmFzZWxpbmU6Y2VudHJhbCI+NTAweDUwMDwvdGV4dD48L3N2Zz4=">
         </div>
       </div>
 
@@ -147,11 +147,11 @@
 
       <div class="row featurette">
         <div class="col-md-5">
-          <img class="featurette-image img-responsive" src="D:\LearnVSCode\GOOD ROAD\САРУСЕЛЬ\Carousel Template for Bootstrap_files\rabstol_net_china_21_2560x1440.jpg" alt="500x500" src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI1MDAiIGhlaWdodD0iNTAwIj48cmVjdCB3aWR0aD0iNTAwIiBoZWlnaHQ9IjUwMCIgZmlsbD0iI2VlZSIvPjx0ZXh0IHRleHQtYW5jaG9yPSJtaWRkbGUiIHg9IjI1MCIgeT0iMjUwIiBzdHlsZT0iZmlsbDojYWFhO2ZvbnQtd2VpZ2h0OmJvbGQ7Zm9udC1zaXplOjMxcHg7Zm9udC1mYW1pbHk6QXJpYWwsSGVsdmV0aWNhLHNhbnMtc2VyaWY7ZG9taW5hbnQtYmFzZWxpbmU6Y2VudHJhbCI+NTAweDUwMDwvdGV4dD48L3N2Zz4=">
+          <img class="featurette-image img-responsive" src="rabstol_net_china_21_2560x1440.jpg" alt="500x500" src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI1MDAiIGhlaWdodD0iNTAwIj48cmVjdCB3aWR0aD0iNTAwIiBoZWlnaHQ9IjUwMCIgZmlsbD0iI2VlZSIvPjx0ZXh0IHRleHQtYW5jaG9yPSJtaWRkbGUiIHg9IjI1MCIgeT0iMjUwIiBzdHlsZT0iZmlsbDojYWFhO2ZvbnQtd2VpZ2h0OmJvbGQ7Zm9udC1zaXplOjMxcHg7Zm9udC1mYW1pbHk6QXJpYWwsSGVsdmV0aWNhLHNhbnMtc2VyaWY7ZG9taW5hbnQtYmFzZWxpbmU6Y2VudHJhbCI+NTAweDUwMDwvdGV4dD48L3N2Zz4=">
         </div>
         <div class="col-md-7">
           <h3 class="featurette-heading">Структуризация<br><span class="text-muted">улично-дорожной сети</span></h3>
-          <p class="lead"><a href="D:\LearnVSCode\GOOD ROAD\САРУСЕЛЬ\Structurization.html">Улично-дорожная сеть должна быть функционально разделена на зоны с различной допустимой скоростью движения:30км/час,50км/час,70км/час. 
+          <p class="lead"><a href="Structurization.html">Улично-дорожная сеть должна быть функционально разделена на зоны с различной допустимой скоростью движения:30км/час,50км/час,70км/час. 
             Скорость движения транспортных средств в каждой зоне должна быть обеспечена за счет проектных решений.</a></p>
         </div>
       </div>
@@ -161,12 +161,12 @@
       <div class="row featurette">
         <div class="col-md-7">
           <h3 class="featurette-heading">Интеллектуальные технологии<br><span class="text-muted">в транспортных системах</span></h3>
-          <p class="lead"><a href="D:\LearnVSCode\GOOD ROAD\САРУСЕЛЬ\ITS Minsk.html">Новые интеллектуальные технологии призваны повысить безопасность и комфорт участников дорожного движения. 
+          <p class="lead"><a href="ITS Minsk.html">Новые интеллектуальные технологии призваны повысить безопасность и комфорт участников дорожного движения. 
             ITS (Интеллектуальная транспортная система), Smart City ("Умный город"), Safety City("Безопасный город"), UTCS (Автоматизированная система управления дорожным движением), автономные автомобили
              - это реальность, переходящая в будущее.</a></p>
         </div>
         <div class="col-md-5">
-          <img class="featurette-image img-responsive" src="D:\LearnVSCode\GOOD ROAD\САРУСЕЛЬ\Carousel Template for Bootstrap_files\ITS.png" alt="500x500" src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI1MDAiIGhlaWdodD0iNTAwIj48cmVjdCB3aWR0aD0iNTAwIiBoZWlnaHQ9IjUwMCIgZmlsbD0iI2VlZSIvPjx0ZXh0IHRleHQtYW5jaG9yPSJtaWRkbGUiIHg9IjI1MCIgeT0iMjUwIiBzdHlsZT0iZmlsbDojYWFhO2ZvbnQtd2VpZ2h0OmJvbGQ7Zm9udC1zaXplOjMxcHg7Zm9udC1mYW1pbHk6QXJpYWwsSGVsdmV0aWNhLHNhbnMtc2VyaWY7ZG9taW5hbnQtYmFzZWxpbmU6Y2VudHJhbCI+NTAweDUwMDwvdGV4dD48L3N2Zz4=">
+          <img class="featurette-image img-responsive" src="ITS.png" alt="500x500" src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI1MDAiIGhlaWdodD0iNTAwIj48cmVjdCB3aWR0aD0iNTAwIiBoZWlnaHQ9IjUwMCIgZmlsbD0iI2VlZSIvPjx0ZXh0IHRleHQtYW5jaG9yPSJtaWRkbGUiIHg9IjI1MCIgeT0iMjUwIiBzdHlsZT0iZmlsbDojYWFhO2ZvbnQtd2VpZ2h0OmJvbGQ7Zm9udC1zaXplOjMxcHg7Zm9udC1mYW1pbHk6QXJpYWwsSGVsdmV0aWNhLHNhbnMtc2VyaWY7ZG9taW5hbnQtYmFzZWxpbmU6Y2VudHJhbCI+NTAweDUwMDwvdGV4dD48L3N2Zz4=">
         </div>
       </div>
 
@@ -240,7 +240,7 @@
     
       <!-- FOOTER -->
       <footer>
-        <p class="pull-right"><a href="D:\LearnVSCode\GOOD ROAD\САРУСЕЛЬ\GOOD ROAD+.html">Наверх</a></p>
+        <p class="pull-right"><a href="GOOD ROAD+.html">Наверх</a></p>
         <p>Контакты: г.Минск,пр.Дзержинского, 3, <br> тел.+375(017)2946176, факс +375(017)2945581</p>
       </footer>
    </div>  <!-- /.form-->
