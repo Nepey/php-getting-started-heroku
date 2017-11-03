@@ -46,7 +46,7 @@
                      <li class="dropdown">
                         <a href="#" class="dropdown-toggle" data-toggle="dropdown">Комиссия по обеспечению безопасности дорожного движения при Мингорисполкоме<b class="caret"></b></a>
                         <ul class="dropdown-menu">
-                           <li><a href=About_comission.html">Положение о комиссии</a></li>
+                           <li><a href="About_comission.html">Положение о комиссии</a></li>
                             <li class="divider"></li>
                            <li><a href="Structure_comission.html">Схема работы комисии</a></li>
                             <li class="divider"></li>
