@@ -12,7 +12,7 @@
     <!-- Bootstrap core CSS -->
     <link href="bootstrap.css" rel="stylesheet">
     <link href="good_road.css" rel="stylesheet">
-          
+    <link href="glyphicons halflings" rel="stylesheet">  
      <style id="holderjs-style" type="text/css"></style>
   </head>
 <!-- NAVBAR
